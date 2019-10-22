@@ -1,24 +1,17 @@
-# README
+# Getting Your Feet Wet
+# Solo Project: Advanced Building Blocks - Enumerables
+## Project Specifications:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is the first approach at using the Ruby on Rails framework. Following instructions from The Ruby on Rails tutorial, I made the point 4 of [this link](https://www.theodinproject.com/courses/ruby-on-rails/lessons/getting-your-feet-wet)
 
-Things you may want to cover:
+The final product is specifically [this project](https://www.learnenough.com/ruby-on-rails-4th-edition-tutorial/toy_app)
 
-* Ruby version
+## Live Version
+[here lives!!!](https://fathomless-stream-68585.herokuapp.com)
 
-* System dependencies
+## Built With:
 
-* Configuration
+Ruby, Ruby on rails, sqlite3 local, postgresql development.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Author
+Luis Preza https://github.com/men32z
