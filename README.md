@@ -1,5 +1,5 @@
 # Getting Your Feet Wet
-# Solo Project: Advanced Building Blocks - Enumerables
+# Solo Project: A toy app
 ## Project Specifications:
 
 This project is the first approach at using the Ruby on Rails framework. Following instructions from The Ruby on Rails tutorial, I made the point 4 of [this link](https://www.theodinproject.com/courses/ruby-on-rails/lessons/getting-your-feet-wet)
